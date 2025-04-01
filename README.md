@@ -1,6 +1,6 @@
 # 🌱 Calculadora de Emisiones de CO2 - Papel
 
-Una aplicación web interactiva desarrollada con Streamlit para calcular y visualizar las emisiones de CO2 asociadas con el consumo de papel.
+Una aplicación web interactiva para calcular y visualizar las emisiones de CO2 asociadas con el consumo de papel.
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.27%2B-red)
