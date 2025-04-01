@@ -1,6 +1,6 @@
 # 1) https://pypi.org/project/streamlit/
 
-# 2) Terminal: cd Streamlit/CO2_Papel > pip install -r requirements.txt
+# 2) Terminal: cd Streamlit/CO2_Rechner > pip install -r requirements.txt
 #                                     > streamlit run app.py
 
 # 3) Welcome to Streamlit! / You can now view your Streamlit app in your browser.
@@ -14,12 +14,12 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-# Obtener configuraciones desde secrets.toml
-APP_NAME = st.secrets["general"]["app_name"]
-VERSION = st.secrets["general"]["version"]
-DEVELOPER = st.secrets["custom"]["developer_name"]
-DEV_EMAIL = st.secrets["custom"]["developer_email"]
-GITHUB_REPO = st.secrets["custom"]["github_repo"]
+# Configuración directa de la aplicación
+APP_NAME = "CO2 Rechner"
+VERSION = "1.0.0"
+DEVELOPER = "ECUADOR-IT"
+DEV_EMAIL = "ecuador@ecuador-it.com"
+GITHUB_REPO = "https://github.com/dwn10/CO2_Rechner"
 
 # Configuración de la página
 st.set_page_config(
