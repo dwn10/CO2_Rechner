@@ -1,7 +1,7 @@
 # 1) https://pypi.org/project/streamlit/
 
-# 2) Terminal: cd Streamlit/CO2_Rechner > pip install -r requirements.txt
-#                                     > streamlit run app.py
+# 2) Terminal: cd Streamlit > pip install -r requirements.txt
+#                           > streamlit run app.py
 
 # 3) Welcome to Streamlit! / You can now view your Streamlit app in your browser.
         # Local URL: http://localhost:8501
