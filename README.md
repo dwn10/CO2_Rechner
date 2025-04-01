@@ -7,14 +7,24 @@ Una aplicación web interactiva desarrollada con Streamlit para calcular y visua
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 📋 Contenido
-- [Descripción](#descripción)
-- [Características](#características)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Metodología](#metodología)
-- [Contribuir](#contribuir)
-- [Licencia](#licencia)
+- [🌱 Calculadora de Emisiones de CO2 - Papel](#-calculadora-de-emisiones-de-co2---papel)
+  - [📋 Contenido](#-contenido)
+  - [📝 Descripción](#-descripción)
+  - [✨ Características](#-características)
+    - [🔢 Cálculos](#-cálculos)
+    - [📊 Visualizaciones](#-visualizaciones)
+    - [💡 Recomendaciones](#-recomendaciones)
+  - [🚀 Instalación](#-instalación)
+  - [💻 Uso](#-uso)
+  - [📁 Estructura del Proyecto](#-estructura-del-proyecto)
+  - [🧮 Metodología](#-metodología)
+    - [Factores de Emisión](#factores-de-emisión)
+    - [Pesos Estándar](#pesos-estándar)
+    - [Cálculos](#cálculos)
+  - [👥 Contribuir](#-contribuir)
+    - [Áreas de Mejora](#áreas-de-mejora)
+  - [📄 Licencia](#-licencia)
+  - [🙏 Agradecimientos](#-agradecimientos)
 
 ## 📝 Descripción
 
@@ -132,12 +142,6 @@ emisiones = peso_papel * factor_emisión * factor_tiempo
 ## 📄 Licencia
 
 Distribuido bajo la Licencia MIT. Ver `LICENSE` para más información.
-
-## 📞 Contacto
-
-Javier Sánchez - [@twitter_handle](https://twitter.com/twitter_handle)
-
-Enlace del proyecto: [https://github.com/tu-usuario/co2-paper-calculator](https://github.com/tu-usuario/co2-paper-calculator)
 
 ## 🙏 Agradecimientos
 
